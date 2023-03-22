@@ -1,0 +1,15 @@
+{
+  "name": "Buy list",
+  "description": "What is need to buy",
+  "image": "ipfs://",
+  "attributes": [
+    {
+      "trait_type": "background_color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "font_size",
+      "value": "16"
+    }
+  ]
+}
